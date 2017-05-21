@@ -1,0 +1,9 @@
+﻿  simulator.c
+c:\users\qazxws\desktop\archi2017_project3\cmp\simulator\simulator.c(53): warning C4018: '<': signed/unsigned 不相符
+c:\users\qazxws\desktop\archi2017_project3\cmp\simulator\simulator.c(71): warning C4018: '<': signed/unsigned 不相符
+  mem_instruction.c
+  main.c
+  commands.c
+  正在產生程式碼...
+  Project3.vcxproj -> C:\Users\qazxws\Desktop\Archi2017_Project3\CMP\simulator\Project3\x64\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\qazxws\Desktop\Archi2017_Project3\CMP\simulator\Project3\x64\Debug\Project3.pdb (Partial PDB)

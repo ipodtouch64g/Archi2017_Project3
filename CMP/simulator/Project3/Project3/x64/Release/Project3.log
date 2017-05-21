@@ -1,0 +1,10 @@
+﻿  commands.c
+  main.c
+  mem_instruction.c
+  simulator.c
+..\..\simulator.c(53): warning C4018: '<': signed/unsigned 不相符
+..\..\simulator.c(71): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼
+  All 49 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  Project3.vcxproj -> C:\Users\qazxws\Desktop\Archi2017_Project3\CMP\simulator\Project3\x64\Release\Project3.exe
